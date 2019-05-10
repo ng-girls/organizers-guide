@@ -7,6 +7,7 @@
   * [#c Location](01_idea/location.md)
   * [#d Expectations](01_idea/expectations.md)
 * [#2 Before the Workshop](02_before_workshop/index.md)
+  * [#a Mentors Preperation Expectations](02_before_workshop/mentors_preperation.md)
 * [#3 During the Workshop](03_during_workshop/index.md)
 * [#4 After the Workshop](04_after_workshop/index.md)
 * [#5 Ressources](04_ressources/index.md)
