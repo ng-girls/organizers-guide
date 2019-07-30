@@ -16,7 +16,7 @@
 - agreement about communication (email, slack, hangouts)
 - print for certificates (can be simple colored A4)
 - badges for attendees/mentors
-- table signs
+- table signs, navigation signs to the room
 - advertisement to the local communities by email (dev community, diversity communities, universities, schools)
 - social media advertisement
 - info for speaker about the workshop (if they want to mentor)
@@ -28,7 +28,8 @@
 * usually it costs us a holiday or unpaid workday
 
 # nice to have
-- swag from sponsor, conference, fancy stuff
+- swag/swag for participants: shirts, cups, drinks, cookies (be creative)
+* including sponsor and conference swag)
 - budget for a little social media advertisement if simple email is not working
 - pro: child care; 
 - room for child care and mothers needs
@@ -36,12 +37,16 @@
 - discount or free tickets for the conference to raffle (at ngVikings they gave mentors a free ticket as value)
 - additional prices to raffle
 - mentors gift as thank you
+- table setup: notepad, water
+- special decoration: e.g. cake, fotobooth (whatever you like)
 
 # What you want to have or reach with the workshop? any special needs? 
+* we can customize the workshop to the hosts needs
+* any special goals/targets?
 
 # additional formats
-- lightning talks within the workshop
+- lightning or sponsor talks within the workshop
 - installation party (evening before): sponsor for location and some food/drinks
 - 2days event (with one day conf); hackathons, special modules (nativescript, rxjs, cypress whatever)
-- kansas city did sth. like dog cuddling or yoga
+- kansas city did sth. fancy like dog cuddling or yoga
 - get together/networking after the workshop (bevearage + pizza)
