@@ -42,6 +42,7 @@
 - table setup: notepad, water
 - special decoration: e.g. cake, fotobooth (whatever you like)
 - enjoyful spotify-playlist, maybe extra places for people who dont like it loud
+- replacement laptops (usually mentors provide them)
 
 ## What you want to have or reach with the workshop? any special needs? 
 * we can customize the workshop to the hosts needs
