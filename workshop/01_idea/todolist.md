@@ -41,6 +41,7 @@
 - mentors gift as thank you
 - table setup: notepad, water
 - special decoration: e.g. cake, fotobooth (whatever you like)
+- enjoyful spotify-playlist, maybe extra places for people who dont like it loud
 
 ## What you want to have or reach with the workshop? any special needs? 
 * we can customize the workshop to the hosts needs
