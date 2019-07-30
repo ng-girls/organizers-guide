@@ -49,6 +49,7 @@
 * any special goals/targets?
 * special supported language (requires change of tutorial=
 * additional teaching blocks?
+* do we need insurance from location?
 
 # additional formats
 - lightning or sponsor talks within the workshop
