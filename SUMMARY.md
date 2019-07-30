@@ -6,6 +6,7 @@
   * [#b Date & Time](workshop/01_idea/date_time.md)
   * [#c Location](workshop/01_idea/location.md)
   * [#d Expectations](workshop/01_idea/expectations.md)
+  * [#e Todolist](workshop/01_idea/todolist.md)
 * [#2 Before the Workshop](workshop/02_before_workshop/index.md)
   * [#a Mentors Preperation](workshop/02_before_workshop/mentors_preperation.md)
   * [#b Participant Preperation](workshop/02_before_workshop/participant_preperation.md)
