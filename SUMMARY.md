@@ -12,5 +12,6 @@
   * [#b Participant Preperation](workshop/02_before_workshop/participant_preperation.md)
 * [#3 During the Workshop](workshop/03_during_workshop/index.md)
 * [#4 After the Workshop](workshop/04_after_workshop/index.md)
-* [#5 Ressources](workshop/04_ressources/index.md)
+* [#5 Ressources](workshop/05_ressources/index.md)
+  * [#a Mentors Email](workshop/05_ressources/sample_mentor_email.md)
 
