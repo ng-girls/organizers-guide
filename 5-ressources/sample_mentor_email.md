@@ -10,7 +10,7 @@ welcome to the ngGirls Workshop @ &lt;location&gt;
    
 My name is Robert Willemelis and it's a honor for me to support you as a mentor on &lt;weekday&gt;, &lt;month&gt; &lt;day&gt; between &lt;time&gt;.  
 Before I'll give you a hopefully not too long text for preparing this workshop, I ask you to give me feedback that you received and read this Email.  
-![image.png](https://mail.google.com/mail/u/0?ui=2&ik=58b7381888&attid=0.1&permmsgid=msg-a:r-3676469004965380175&th=16b33936838f6e70&view=fimg&sz=s0-l75-ft&attbid=ANGjdJ_-utuZF3N4sy6Vmb_FtWXsxTBQSUDVNqKUNOxLdtLvJdajtodHmk1O0f2plCAehmzLWQEvS9MsOkDEFq2vuC_PUSLI59JAouOiufACCLeMbrYFKg4xclYzSig&disp=emb&realattid=ii_juyc6f7k1)  
+![robert.png](/assets/robert.png)  
    
 Kind regards,  
 Robert  
@@ -83,7 +83,7 @@ and then activate it by:
   
 the installation of nodeJS and the angular CLI could take a while. Take a coffee  
   
-![image.png](https://mail.google.com/mail/u/0?ui=2&ik=58b7381888&attid=0.2&permmsgid=msg-a:r-3676469004965380175&th=16b33936838f6e70&view=fimg&sz=s0-l75-ft&attbid=ANGjdJ9ZuU9htqg5qYd079BkR4zgEcL4fRTqEgOYTrxGNRk6pXkM1DaPVByN9f1nD5CI-lgLvAOqo5Mf4prHvmxvKSRFyo9crsyV61HAjdnEHQ7NSpK1ZBYTMJ5XPzs&disp=emb&realattid=ii_juyc589a0)  
+![coffee.png](/assets/coffee.png)  
 B\) for Mac OS users \(only\):  
   
 We recommend using Homebrew: [https://brew.sh/index\_de.html](https://brew.sh/index_de.html)  
