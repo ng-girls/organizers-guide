@@ -38,6 +38,12 @@ based on experience of Robert
 * nod and smiling doesn't mean that they have understand it
   * sometime cultural issues prevent from asking
   * ask questions to check the understanding
+  
+## Work in Groups
+* in online workshop it is recommended to be in interaction
+* maybe give your attendees little customizing tasks for the tutorial
+* feel free to use your own video conferencing tool, when you work in groups:
+  * e.g. https://meet.jit.si/
 
 ## troubleshooting
 
