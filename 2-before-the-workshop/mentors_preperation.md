@@ -12,7 +12,8 @@ based on Robert's experience
 * Most important goal of the workshop is empowerment
   * Make your attendees happy, welcomed and feel good of being a developer
   * Share your experiences and learnings from your career path
-  * Offer help 
+  * Offer help
+  * support also in simple ways (e.g. bringing a coffee)
 
 ## Basics
 
@@ -24,10 +25,17 @@ based on Robert's experience
 * Show them the basic skills of a modern developer
   * help, google, ask, struggle, debug & learn together
   * find a solution together
+  * make sure they not just copy&paste or just use AI
 * Not all attendees reach the final part
   * IT'S OK, because they should learn, network and have fun while developing
   * Provide help to finish the tutorial at home
-* If they solved the tutorial let them go further with simple other tasks
+* If they solved the tutorial:
+  * let them go further with simple other tasks
+  * offer the [extra little workshop](https://ng-girls.gitbook.io/todo-list-tutorial/more-workshops/crud_http) at the end of the tutorial
+* if in a discussion they demand custom knowledge:
+  * try to support them
+  * let them solve a task also in a different way with a different part of Angular
+  * feel free to go deeper also into basic stuff like CSS/HTML if needed
 
 ## Advises
 
@@ -37,7 +45,7 @@ based on Robert's experience
   * sometime cultural issues prevent from asking
   * ask questions to check the understanding
   
-## Work in Groups
+## 📡 Work in Groups (for online workshops)
 * In online workshop it is recommended to keep interacting
 * maybe give your attendees little customizing tasks for the tutorial
 * feel free to use your own video conferencing tool, when you work in groups:
@@ -51,7 +59,8 @@ based on Robert's experience
 * pull requests are welcome
   * but its also good if not everything is perfect \(helps struggling\)
 * Sometimes a restart of the CLI helps if nothing works
-* On github you find the solution of the tutorial
+* On github you find the [original solution](https://github.com/ng-girls/todo-list) of the tutorial
+  * at the end of each chapter is the solution of the current chapter as a stackblitz 
 * If its not possible to install the CLI on the laptop, just use stackblitz.com
   * Don't waste too much time for installations, maybe just ask us organizers
 
